@@ -1,0 +1,43 @@
+.main {
+  padding: 0 0.75rem;
+  grid-column: 2/3;
+}
+.main h1 {
+  font-size: 3rem;
+  padding-top: 4rem;
+  text-align: center;
+  color: #003785;
+}
+.main-date {
+  color: #999;
+  padding-top: 0.5rem;
+}
+.main img {
+  margin: 0 auto;
+  width: 640px;
+  padding: 0.75rem 0 1.75rem 0;
+}
+.main p {
+  width: 50%;
+  margin: 0 auto;
+}
+.main h2 {
+  font-size: 1.25rem;
+  padding: 1rem 0 .25rem 0;
+  text-align: center;
+  color: #003785;
+}
+@media (max-width: 800px) {
+  .main p {
+    width: 100%;
+  }
+  .main img {
+    width: 480px;
+  }
+}
+@media (max-width: 400px) {
+  .main h1 {
+    font-size: 1.75rem;
+    padding-top: 2rem;
+  }
+}
