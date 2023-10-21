@@ -36,6 +36,9 @@
   .header {
   justify-content: space-between;
   }
+  .header-contact {
+    background: #1465bb;
+  }
 }
 @media (max-width: 500px) {
   .header-icon {
