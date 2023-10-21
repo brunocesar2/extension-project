@@ -36,13 +36,12 @@
   .header {
   justify-content: space-between;
   }
+}
+@media (max-width: 800px) {
   .header-contact {
     background: #1465bb;
   }
-}
-@media (max-width: 500px) {
   .header-icon {
     width: 48px;
-    cursor: pointer;
   }
 }
