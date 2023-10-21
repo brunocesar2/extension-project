@@ -1,0 +1,21 @@
+.footer {
+  grid-column: 1/-1;
+  background: #81c9fa;
+}
+.contact-icon {
+  width: 64px;
+}
+.contact-links ul {
+  display: flex;
+}
+.contact-links img {
+  width: 48px;
+}
+.copy {
+  background: #2196f3;
+}
+.copy p {
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}

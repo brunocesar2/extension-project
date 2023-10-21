@@ -25,22 +25,12 @@
 .header-links a {
   color: #fff;
 }
-.header-contact {
-  padding: 0.75rem 0.5rem;
-  border-radius: 5px;
-}
-.header-contact:hover {
-  background: #1465bb;
-}
 @media (max-width: 1500px) {
   .header {
   justify-content: space-between;
   }
 }
 @media (max-width: 800px) {
-  .header-contact {
-    background: #1465bb;
-  }
   .header-icon {
     width: 48px;
   }
