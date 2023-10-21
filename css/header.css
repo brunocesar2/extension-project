@@ -39,7 +39,7 @@
 }
 @media (max-width: 500px) {
   .header-icon {
-    width: 36px;
+    width: 48px;
     cursor: pointer;
   }
 }
