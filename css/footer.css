@@ -4,9 +4,11 @@
 }
 .contact-icon {
   width: 64px;
+  padding-top: 1rem;
 }
 .contact-links ul {
   display: flex;
+  padding: 1rem 0;
 }
 .contact-links img {
   width: 48px;
