@@ -59,12 +59,3 @@ dd {
 .button-top:hover {
   background: #003785;
 }
-[data-scroll-animation] {
-  opacity: 0;
-  transition: .7s;
-  transform: translate3d(-150px, 0, 0)
-}
-[data-scroll-animation].active {
-  opacity: 1;
-  transform: translate3d(0, 0, 0)
-}

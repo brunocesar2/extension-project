@@ -5,9 +5,15 @@
 .contact {
   padding: 0 .75rem;
 }
+.contact ul {
+  justify-content: center;
+  gap: 2rem;
+}
 .contact-icon {
   width: 64px;
   padding-top: 1rem;
+  margin: 0 auto;
+  cursor: pointer;
 }
 .contact-links ul {
   display: flex;
